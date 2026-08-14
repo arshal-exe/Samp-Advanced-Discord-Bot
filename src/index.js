@@ -1,0 +1,19 @@
+import bootstrap from "./core/bootstrap.js";
+
+import {
+    Client,
+    GatewayIntentBits,
+    Collection
+} from "discord.js";
+
+const client = new Client({
+    intents: [
+        GatewayIntentBits.Guilds,
+        GatewayIntentBits.GuildMembers,
+        GatewayIntentBits.GuildInvites
+    ]
+});
+
+client.commands = new Collection();
+
+bootstrap(client);

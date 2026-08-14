@@ -1,0 +1,9 @@
+node_modules/
+.env
+
+src/temp/*
+!src/temp/.gitkeep
+
+*.sql
+*.sql.gz
+*.log

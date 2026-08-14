@@ -1,0 +1,26 @@
+{
+    "players": {
+        "current": 912,
+        "peak": 931
+    },
+    "ping": {
+        "current": 221,
+        "highest": 1745,
+        "lowest": 7
+    },
+    "daily": {
+        "samples": 1440,
+        "totalPlayers": 264809,
+        "averagePlayers": 184
+    },
+    "weekly": {
+        "samples": 1440,
+        "totalPlayers": 264809,
+        "averagePlayers": 184
+    },
+    "monthly": {
+        "samples": 1440,
+        "totalPlayers": 264809,
+        "averagePlayers": 184
+    }
+}
