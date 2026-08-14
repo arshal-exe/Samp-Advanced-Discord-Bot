@@ -130,9 +130,11 @@ Follow these steps to install and run the bot. All examples use safe placeholder
 
 1. Clone the repository
 
+### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/arshal-exe/SampBot.git
-cd SampBot
+git clone https://github.com/arshal-exe/Samp-Advanced-Discord-Bot.git
+cd Samp-Advanced-Discord-Bot
 ```
 
 2. Install dependencies
